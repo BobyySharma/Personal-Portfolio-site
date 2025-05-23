@@ -1,0 +1,122 @@
+I want you to build a highly professional, creative, and responsive portfolio website using HTML, CSS, and JavaScript (or React + Tailwind CSS if preferred). This should look like something made by a top-tier developer (like an IITian). It should be clean, minimalistic, and have modern design elements like:
+
+🔥 Features to Include
+Dark & Light mode toggle
+
+Smooth scroll-based animations (e.g., AOS or Framer Motion if using React)
+
+Interactive project showcase cards with hover effects and modal preview
+
+Typewriter effect for the tagline in the hero section
+
+Animated skill bars or icons
+
+Scroll-to-top button
+
+Sticky navbar with animated active section indicator
+
+Responsive design for all devices (desktop/tablet/mobile)
+
+SEO-ready with clean meta tags and Open Graph tags
+
+👤 Header / Hero Section
+Name: Boby Sharma
+
+Dynamic tagline with typing animation: "Flutter Developer | UI/UX Designer | Frontend Engineer"
+
+Download Resume button (PDF)
+
+GitHub, LinkedIn icons (clickable)
+
+💼 About Me Section
+Short paragraph:
+"I’m Boby Sharma, a passionate mobile app and frontend developer skilled in Flutter, Firebase, and seamless UI/UX design. I create beautiful and scalable applications with a strong focus on performance, design, and user satisfaction."
+
+Add a circular profile image with a stylish border and hover effect
+
+🛠 Skills Section (Interactive)
+Use progress bars or icons for:
+Flutter, Dart, Firebase, C++, UI/UX, SQL, Git, Linux, OOPs, Responsive Design
+
+Optionally group skills into "Mobile Development", "Frontend", and "Tools"
+
+🚀 Projects Section (Interactive Cards)
+Grofast
+
+Online grocery app using Flutter + Firebase
+
+Real-time tracking, authentication, modern UI
+
+GitHub: Grofast Repo
+
+Show in a modal or expandable card
+
+HRMS Intern App
+
+HR management app for attendance and employee tracking
+
+Built with GetX, Firebase, time-in/out system
+
+GitHub: HRMS Repo
+
+Add filter buttons to sort by tech (e.g., Flutter, Firebase)
+
+🧠 Experience Section (Styled Timeline)
+Ubitech Solutions Pvt. Ltd. (Intern)
+
+Duration: Mar 2025 – Apr 2025
+
+Built a feature-rich mobile app with login/signup, real-time updates, and notifications
+
+🎓 Education Section
+B.Tech in CSE
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, 2022–2026
+CGPA: 7
+
+📜 Certifications Section
+Salesforce Agentforce Specialist
+
+AI Associate
+
+Data Analytics & Visualization (The Forage)
+
+Link all certificates in a visually pleasing badge layout
+
+📬 Contact Section
+Use a contact form with email.js or just static info
+
+Email: boby8435s@gmail.com
+
+LinkedIn: linkedin.com/in/boby-sharma-938bba298
+
+GitHub: github.com/BobyySharma
+
+🧩 Bonus Add-ons (Optional but Cool)
+Real-time GitHub contributions calendar using GitHub API
+
+Visitors counter or analytics integration
+
+Blog section (even placeholder) using markdown or CMS like Notion
+
+Animate elements using libraries like GSAP or Lottie
+
+Please make sure it's polished, well-commented, and easy to maintain or expand.
+
+Would you like me to generate this entire project for you using React + Tailwind CSS or just stick to HTML/CSS/JS? I can build the base for you.
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+ChatGPT can make mistakes. Check important info. See Cookie Preferences.

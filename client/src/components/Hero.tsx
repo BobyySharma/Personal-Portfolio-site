@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { FaGithub, FaLinkedin, FaEnvelope, FaDownload } from "react-icons/fa";
+import profileImage from "../assets/profile.jpg";
 
 export default function Hero() {
   return (
@@ -100,7 +101,7 @@ export default function Hero() {
             <div className="relative">
               <div className="absolute -inset-1 bg-gradient-to-r from-primary to-secondary rounded-full blur opacity-30 animate-pulse-slow"></div>
               <img 
-                src="/src/assets/profile.jpg" 
+                src={profileImage} 
                 alt="Boby Sharma" 
                 className="rounded-full object-cover w-72 h-72 md:w-80 md:h-80 border-4 border-white dark:border-gray-800 relative z-10"
               />
